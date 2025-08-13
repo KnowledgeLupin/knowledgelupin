@@ -8,9 +8,6 @@ toc: true
 comments: false
 math: true
 mermaid: true
-image:
-  path: /assets/img/sample-image.jpg
-  alt: 이미지 설명
 ---
 
 ## 머리말 (Front Matter)
