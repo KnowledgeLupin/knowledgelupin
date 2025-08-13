@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Bundler
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+.bundle
+vendor
+
+# Ruby
+Gemfile.lock
+
+# npm packages
+node_modules
+package-lock.json
+
+# IDE
+.idea
+.vscode
+
+# Misc
+*.swp
+~*
+*~
